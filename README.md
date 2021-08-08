@@ -1,3 +1,3 @@
-##Usage
-### git clone 
-### npm install
+## Usage
+### 1. git clone 
+### 2. npm install
